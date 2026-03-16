@@ -4,7 +4,7 @@ body{
 }
 .mainBox{
   display:grid;
-  grid-template-columns:1fr 10fr 1fr;
+  grid-template-columns:1fr 12fr 1fr;
   
 }
 .headerBox,.bodyBox{

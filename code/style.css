@@ -50,8 +50,11 @@ body{
   grid-column-end: 4;
 }
 
-.cont{
+.titleCont{
   font-size:2em;
+}
+.cont{
+  font-size:1em;
   padding:10%;
   border-radius:10px;
   background-color: beige;

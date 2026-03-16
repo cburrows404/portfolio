@@ -60,7 +60,7 @@ body{
 }
 .pic{
   max-width:100%;
-  padding:1em;
+  width:80%;
   border-radius:10px;
 }
 

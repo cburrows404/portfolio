@@ -21,6 +21,8 @@ body{
 .bodyBox{
   grid-template-columns:4fr 1fr 4fr 1fr 4fr 1fr 4fr;
 }
+
+
 .titleCont,.firstCont{
   grid-column-start: 1;
   grid-column-end: 2;
@@ -40,6 +42,10 @@ body{
 .infoCont{
   grid-column-start: 1;
   grid-column-end:6;
+}
+.fullTitleCont{
+  grid-column-start: 1;
+  grid-column-end: 4;
 }
 
 .cont{

@@ -53,12 +53,10 @@ body{
   border-radius:10px;
   background-color: beige;
 }
-a:visited{
+a,a:visited{
+  text-decoration:none;
   color:darkolivegreen;
 }
 a:hover{
   color:darkseagreen;
-}
-a{
-  text-decoration:none;
 }

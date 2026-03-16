@@ -1,0 +1,20 @@
+body{
+  display:grid;
+  overflow:hidden;
+}
+.mainBox{
+  display:grid;
+  grid-template-columns:1fr,8fr,1fr;
+  
+}
+.headerBox,.bodyBox{
+  grid-column-start:2;
+  grid-column-end:3;
+  display:grid;
+}
+.headerBox{
+  grid-template-columns:4fr,1fr,4fr;
+}
+.bodyBox{
+  grid-template-columns:4fr,1fr,4fr,1fr,4fr,1fr,4fr;
+}

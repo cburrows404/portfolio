@@ -4,7 +4,7 @@ body{
 }
 .mainBox{
   display:grid;
-  grid-template-columns:1fr,8fr,1fr;
+  grid-template-columns:1fr 8fr 1fr;
   
 }
 .headerBox,.bodyBox{
@@ -13,8 +13,8 @@ body{
   display:grid;
 }
 .headerBox{
-  grid-template-columns:4fr,1fr,4fr;
+  grid-template-columns:4fr 1fr 4fr;
 }
 .bodyBox{
-  grid-template-columns:4fr,1fr,4fr,1fr,4fr,1fr,4fr;
+  grid-template-columns:4fr 1fr 4fr 1fr 4fr 1fr 4fr;
 }

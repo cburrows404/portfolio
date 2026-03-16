@@ -1,5 +1,4 @@
 body{
-  color:#33fe34;
   display:grid;
   overflow:hidden;
 }
@@ -9,7 +8,7 @@ body{
   
 }
 .headerBox,.bodyBox{
-  grid-column-start:2;
+  grid-column-start:1;
   grid-column-end:3;
   display:grid;
 }

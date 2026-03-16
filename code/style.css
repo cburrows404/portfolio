@@ -2,6 +2,8 @@ body{
   display:grid;
   overflow:hidden;
   margin:0%;
+  font-family: Kodchasan;
+  font-weight: SemiBold;
 }
 .mainBox{
   display:grid;

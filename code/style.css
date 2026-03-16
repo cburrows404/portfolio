@@ -4,11 +4,11 @@ body{
 }
 .mainBox{
   display:grid;
-  grid-template-columns:1fr 8fr 1fr;
+  grid-template-columns:1fr 10fr 1fr;
   
 }
 .headerBox,.bodyBox{
-  grid-column-start:1;
+  grid-column-start:2;
   grid-column-end:3;
   display:grid;
 }

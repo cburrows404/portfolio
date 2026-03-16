@@ -54,14 +54,13 @@ body{
   font-size:2em;
 }
 .cont{
-  font-size:1em;
   padding:10%;
   border-radius:10px;
   background-color: beige;
 }
 .pic{
   max-width:100%;
-  padding:4em;
+  padding:1em;
   border-radius:10px;
 }
 

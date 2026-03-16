@@ -48,10 +48,11 @@ body{
   background-color: beige;
 }
 a:visited{
-  text-decoration: none;
   color:darkolivegreen;
 }
 a:hover{
-  text-decoration:none;
   color:darkseagreen;
+}
+a{
+  text-decoration:none;
 }

@@ -15,6 +15,7 @@ body{
 }
 .headerBox{
   grid-template-columns:9fr 1fr 9fr;
+  margin-bottom:5%;
 }
 .bodyBox{
   grid-template-columns:4fr 1fr 4fr 1fr 4fr 1fr 4fr;

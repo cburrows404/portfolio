@@ -18,3 +18,11 @@ body{
 .bodyBox{
   grid-template-columns:4fr 1fr 4fr 1fr 4fr 1fr 4fr;
 }
+.titleCont{
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+.imageCont{
+  grid-column-start: 3;
+  grid-column-end: 4;
+}

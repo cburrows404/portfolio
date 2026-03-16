@@ -60,3 +60,8 @@ a,a:visited{
 a:hover{
   color:darkseagreen;
 }
+.pic{
+  max-width:100%;
+  width:60%;
+  border-radius:10px;
+}

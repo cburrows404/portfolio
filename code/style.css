@@ -14,7 +14,7 @@ body{
   display:grid;
 }
 .headerBox{
-  grid-template-columns:4fr 1fr 4fr;
+  grid-template-columns:9fr 1fr 9fr;
 }
 .bodyBox{
   grid-template-columns:4fr 1fr 4fr 1fr 4fr 1fr 4fr;

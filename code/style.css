@@ -56,15 +56,17 @@ body{
   border-radius:10px;
   background-color: beige;
 }
+.pic{
+  max-width:100%;
+  padding:4em;
+  border-radius:10px;
+}
+
+
 a,a:visited{
   text-decoration:none;
   color:darkolivegreen;
 }
 a:hover{
   color:darkseagreen;
-}
-.pic{
-  max-width:100%;
-  padding:4em;
-  border-radius:10px;
 }

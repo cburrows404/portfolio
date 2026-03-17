@@ -1,5 +1,6 @@
 body{
   background-color:rgb(64, 40, 27);
+  color:rgb(38, 25, 12);
   display:grid;
   overflow:hidden;
   margin:0%;
@@ -66,9 +67,13 @@ body{
   max-width:100%;
   border-radius:10px;
 }
-.bodytext,.titletext{
+.bodytext,.titletext,.linkBox{
   padding-top:5%;
   padding-bottom:5%;
+}
+.bodytext{
+  font-size:1em;
+  font-style:italic;
 }
 .linkBox:hover{
   background-color: rgb(198, 174, 154);
@@ -76,8 +81,10 @@ body{
 
 a,a:visited{
   text-decoration:none;
-  color:darkolivegreen;
+  color:rgb(78, 99, 41);
 }
 a:hover{
-  color:darkseagreen;
+  text-decoration:underline;
+  font-style:italic;
+  color:rgb(40, 49, 23);
 }

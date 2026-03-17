@@ -71,7 +71,7 @@ a:hover{
 }
 
 .firstCont,.secondCont, .thirdCont, .fourthCont{
-  place-items: center;
+  margin-top:5%;
 }
 
 .imageCont{

@@ -71,7 +71,8 @@ a:hover{
 }
 
 .firstCont,.secondCont, .thirdCont, .fourthCont{
-  margin-top:5%;
+  margin-top:auto;
+  margin-bottom:auto;
 }
 
 .imageCont{

@@ -67,7 +67,6 @@ a:hover{
   grid-column-start:1;
   grid-column-end:8;
   margin-top:5%;
-  margin-bottom:5%;
 }
 
 
@@ -92,14 +91,17 @@ a:hover{
 .titletext{
   font-size:2em;
 }
+.subtitletext{
+  font-size:1.5em;
+}
 .bodytext{
   font-size:1em;
   font-style:italic;
 }
 .linkBox{
   font-size:1.5em;
-  padding-top:10%;
-  padding-bottom:10%;
+  padding-top:15%;
+  padding-bottom:15%;
 }
 .linkBox:hover{
   background-color: rgb(198, 174, 154);

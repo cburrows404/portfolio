@@ -5,8 +5,20 @@ body{
   overflow:hidden;
   margin:0%;
   font-family: Kodchasan;
-  font-weight: SemiBold;
+  font-weight: bold;
 }
+a,a:visited{
+  text-decoration:none;
+  font-style:normal;
+  color:rgb(78, 99, 41);
+}
+a:hover{
+  text-decoration:underline;
+  font-style:italic;
+  color:rgb(40, 49, 23);
+}
+
+
 .mainBox{
   display:grid;
   grid-template-columns:1fr 12fr 1fr;
@@ -54,7 +66,9 @@ body{
   grid-column-end: 4;
 }
 
-
+.titleCont,.fullTitleCont{
+  background-color: rgb(78, 99, 41);
+}
 .cont{
   box-shadow:10px 10px 10px rgb(38, 25, 12);
   padding:5%;
@@ -77,14 +91,4 @@ body{
 }
 .linkBox:hover{
   background-color: rgb(198, 174, 154);
-}
-
-a,a:visited{
-  text-decoration:none;
-  color:rgb(78, 99, 41);
-}
-a:hover{
-  text-decoration:underline;
-  font-style:italic;
-  color:rgb(40, 49, 23);
 }

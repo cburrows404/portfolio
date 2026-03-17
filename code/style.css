@@ -70,6 +70,9 @@ a:hover{
 }
 
 
+.linktext{
+  text-align:right;
+}
 .titleCont,.fullTitleCont{
   background-color: rgb(117, 138, 79);
   box-shadow:5px 5px 10px rgb(38, 25, 12);
@@ -81,7 +84,6 @@ a:hover{
   padding:5%;
   border-radius:10px;
   background-color: rgb(202, 189, 177);
-  text-align:center;
 }
 .pic{
   box-shadow:5px 5px 10px rgb(38, 25, 12);
@@ -102,6 +104,7 @@ a:hover{
   font-size:1.5em;
   padding-top:15%;
   padding-bottom:15%;
+  text-align:center;
 }
 .linkBox:hover{
   background-color: rgb(198, 174, 154);

@@ -66,6 +66,8 @@ a:hover{
 .lowerInfoCont{
   grid-column-start:1;
   grid-column-end:8;
+  margin-top:5%;
+  margin-bottom:5%;
 }
 
 .titleCont,.fullTitleCont{

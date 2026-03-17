@@ -2,7 +2,7 @@ body{
   background-color:rgb(64, 40, 27);
   color:rgb(38, 25, 12);
   display:grid;
-  overflow:hidden;
+  /*overflow:hidden;*/
   margin:0%;
   font-family: Kodchasan;
   font-weight: bold;
@@ -70,6 +70,9 @@ a:hover{
 }
 
 
+.imageCont{
+  text-align:center;
+}
 .linktext{
   text-align:right;
 }
